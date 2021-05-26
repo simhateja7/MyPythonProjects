@@ -8,7 +8,7 @@ from PIL import Image,ImageTk
 root=Tk()
 
 root.title("ImageConversion")
-root.iconbitmap("C:\\Users\\simha\\OneDrive\\Desktop\\GUI_tkinter\\logo.ico")
+root.iconbitmap("C:\\Users\\simha\\OneDrive\\Desktop\\GUI_tkinter\\logo.ico") #to get logo you can use converto web site  it converts jpeg or png to .ico
 root.geometry("500x650")
 root.configure(bg="#1b1b21")
 
